@@ -1,14 +1,16 @@
-Prowl's burn rate
-=======
+## Prowl's burn rate
+
 
 Burn Rate is a simple library for computing a weekly expenditure from a list of bills over a monthly and yearly cycle for Prowl, but don't be afraid to use at it your company as well! 
 
 The term burn rate can also refer to how quickly individuals spend their money, particularly their discretionary income.
 
+## Assumptions
+
 Burn rate makes the following assumptions about Prowl: 
 
-	* You organize your finances on a weekly basis
-	* Every "pay week" starts on Thursday
+* You organize your finances on a weekly basis
+* Every "pay week" starts on Thursday
 
 ## Usage
 
