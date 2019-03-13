@@ -7,7 +7,7 @@ The term burn rate can also refer to how quickly individuals spend their money, 
 
 ## Assumptions
 
-Burn rate makes the following assumptions about Prowl: 
+Burn rate makes the following assumptions about Prowl & your startup:  
 
 * You organize your finances on a weekly basis
 * Every "pay week" starts on Thursday
