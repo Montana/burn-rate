@@ -16,7 +16,7 @@ Burn rate makes the following assumptions about Prowl & your startup:
 ## Usage
 
 *output.py* implements a simple commandline tool to generate a burn rate.
-it is run via
+It is run via
 ```python
 output.py data.json
 ```
