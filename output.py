@@ -3,13 +3,16 @@ import arrow
 import begin
 import json
 import decimal
+import argparse
 
 @begin.start
+args = parser.parse_args()
 def run(*files):
     with origin(arrow.get("December 05, 2014", "MMMM DD, YYYY")) as start:
         for fn in files:
             data = json.loads(open(fn).read())
             bills = []
+            
             for key in data.keys():
                 k = key.replace("ly", "")
                 for name, deets in data[key].iteritems():
