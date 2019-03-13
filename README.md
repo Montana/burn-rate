@@ -1,5 +1,6 @@
-## Prowl's burn rate
+![logo](logo.png)
 
+## Prowl's burn rate
 
 Burn Rate is a simple library for computing a weekly expenditure from a list of bills over a monthly and yearly cycle for Prowl, but don't be afraid to use at it your company as well! 
 
